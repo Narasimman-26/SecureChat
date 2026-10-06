@@ -15,7 +15,7 @@
 ## 🔗 Live Demo & Links
 - **Live Frontend (Vercel):** `https://securechat-demo.vercel.app` *(Demo link placeholder)*
 - **Live Backend (Render):** `https://securechat-api.onrender.com` *(Demo link placeholder)*
-- **GitHub Repository:** `https://github.com/your-username/securechat`
+- **GitHub Repository:** `https://github.com/Narasimman-26/SecureChat`
 
 ---
 
@@ -215,8 +215,8 @@ securechat/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/securechat.git
-cd securechat
+git clone https://github.com/Narasimman-26/SecureChat.git
+cd SecureChat
 ```
 
 ### 2. Install dependencies

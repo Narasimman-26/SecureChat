@@ -135,7 +135,7 @@ export const LandingPage: React.FC<LandingPageProps> = ({ onGetStarted, onLogin 
 
         <div className="flex items-center gap-3 sm:gap-4 font-mono text-xs">
           <a
-            href="https://github.com"
+            href="https://github.com/Narasimman-26/SecureChat"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-3 py-2 rounded-xl bg-cyber-panel border border-cyber-border text-cyber-muted hover:text-white hover:border-cyber-border-light transition-all"
@@ -216,7 +216,7 @@ export const LandingPage: React.FC<LandingPageProps> = ({ onGetStarted, onLogin 
           </button>
 
           <a
-            href="https://github.com"
+            href="https://github.com/Narasimman-26/SecureChat"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full sm:w-auto px-6 py-3.5 rounded-xl bg-cyber-card border border-cyber-border-light hover:border-cyber-cyan/50 text-cyber-text transition-all flex items-center justify-center gap-2"
